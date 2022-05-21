@@ -1,7 +1,6 @@
 - 👋 Hi, I’m <strong>@hovdek</strong>
 - 👀 I’m interested in photography, board/video games, learning coding
-- 🌱 I’m currently learning html coding
-- 💞️ I’m looking to collaborate on nothing atm!
+- 🌱 I’m currently learning html/css/javascript 
 - 📫 You can reach me on discord - #0048
 
 <!---
